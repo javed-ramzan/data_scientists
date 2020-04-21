@@ -10,3 +10,10 @@ https://datastudio.google.com/reporting/f3010419-45b3-41a5-8e7c-de584eb7dff7.
 Data studio interative report about engineering
 https://datastudio.google.com/reporting/f3dcfe53-cd1d-4d4b-bdd4-36f24a13514a
 
+Data studio interative report about business
+https://datastudio.google.com/reporting/d1e08cf7-01d7-4add-b921-d27ab07fb48f
+
+Data studio interative report about physics
+https://datastudio.google.com/reporting/f3cc01a7-0c47-4114-a827-75b1ded65037
+
+

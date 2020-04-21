@@ -16,4 +16,8 @@ https://datastudio.google.com/reporting/d1e08cf7-01d7-4add-b921-d27ab07fb48f
 Data studio interative report about physics
 https://datastudio.google.com/reporting/f3cc01a7-0c47-4114-a827-75b1ded65037
 
+Data studio interative report about mathematics
+https://datastudio.google.com/reporting/c43288be-7509-45ab-b24d-86a5072e14f9
 
+Data studio interative report about medical
+https://datastudio.google.com/reporting/010cf101-11c8-42c0-90db-e983867df4c9
